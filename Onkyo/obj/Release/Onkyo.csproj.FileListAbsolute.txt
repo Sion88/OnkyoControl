@@ -1,0 +1,16 @@
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\bin\Release\Onkyo.exe.config
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.Form1.resources
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.Properties.Resources.resources
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.csproj.GenerateResource.cache
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.csproj.CoreCompileInputs.cache
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.exe
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.pdb
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.csprojAssemblyReference.cache
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.SoundBalance.resources
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Interop.NetFwTypeLib.dll
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.csproj.ResolveComReference.cache
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\bin\Release\Config\Config.ini
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\bin\Release\Onkyo.exe
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\bin\Release\Onkyo.pdb
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.csproj.Fody.CopyLocal.cache
+D:\程式\Visual Studio 2015\Onkyo\Onkyo\obj\Release\Onkyo.ShowText.resources
